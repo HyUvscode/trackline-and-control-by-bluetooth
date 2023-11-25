@@ -1,8 +1,8 @@
 # trackline-and-control-by-bluetooth
 
-This repo is a code of a contest class autonomous car level 2 in FPT Can Tho University organized.
+This repo uses Arduino code for a contest called Autonomous Car Level 2 in FPT Can Tho University organized.
 
-You can buy and made a car by follow the ThietbiLevel2.docx file.
+You can buy and make a car by following the ThietbiLevel2.docx file.
 
 ![Image Alt Text](1.jpg)
 
